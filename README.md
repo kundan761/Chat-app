@@ -39,7 +39,7 @@ To set up the Live Chat App locally, follow these steps:
 
 - **Frontend**: ReactJS, HTML5, CSS3
 - **Backend**: Node.js, Express.js, Cors
-- **Real-time Communication**: Chatengine.io, 
+- **Real-time Communication**: chatengine.io
 
 ## License
 
